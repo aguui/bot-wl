@@ -1,0 +1,136 @@
+{
+    "questions": [
+        {
+            "question": ["Qual é o ID apresentado in-game?"],
+            "answers": null,
+            "correctAnswer": null
+        },
+        {
+            "question": ["Qual o nome do Seu personagem"],
+            "answers": null,
+            "correctAnswer": null
+        }
+    ],
+    "quiz": [
+        {
+            "question": [
+                "01. O que significa o termo 'Random Deathmatch' no contexto do servidor?",
+                "\n\n> **A)** `Atropelar alguém sem motivos.`",
+                "\n> **B)** `Sacar uma arma e ameaçar alguém.`",
+                "\n> **C)** `Usada para quem abusou de bug.`",
+                "\n> **D)** `Matar alguém sem motivos.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "D"
+        },
+        {
+            "question": [
+                "02. O que é considerado 'metagaming' no contexto do servidor?",
+                "\n\n> **A)** `Usar informações externas no jogo`",
+                "\n> **B)** `Criar um personagem com habilidades especiais`",
+                "\n> **C)** `Participar de eventos organizados pelos administradores`",
+                "\n> **D)** `Interagir com outros jogadores de maneira inadequada`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "A"
+        },
+        {
+            "question": [
+                "03. Qual das alternativas explica o que é Roleplay?",
+                "\n\n> **A)** `Mata-Mata`",
+                "\n> **B)** `Simular a vida real.`",
+                "\n> **C)** `Role com os Amigos.`",
+                "\n> **D)** `Simular a Fantasia.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "B"
+        },
+        {
+            "question": [
+                "04. Qual das alternativas explica o que é considerado Anti-RP",
+                "\n\n> **A)** `Vender drogas em área safe.`",
+                "\n> **B)** `É você fazer rp de bandido.`",
+                "\n> **C)** `É você quebrar as regras do servidor.`",
+                "\n> **D)** `É você cometer infrações de trânsito.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "C"
+        },
+        {
+            "question": [
+                "05. Qual das alternativas explica o que é Amor á Vida?",
+                "\n\n> **A)** `Reagir a um assalto.`",
+                "\n> **B)** `É valorizar a sua vida como ela fosse única.`",
+                "\n> **C)** `É ter amor próprio.`",
+                "\n> **D)** `É pular de uma ponte para evitar não ser pego.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "B"
+        },
+        {
+            "question": [
+                "06. Qual das alternativas explica o que é PowerGaming?",
+                "\n\n> **A)** `É abusar da mecânica do jogo.`",
+                "\n> **B)** `É você usar informação fora do jogo.`",
+                "\n> **C)** `É você ter super forças no jogo.`",
+                "\n> **D)** `É você fazer um rp forçando com os players.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "D"
+        },
+        {
+            "question": [
+                "07. Qual das alternativas explica o que é Combat Logging?",
+                "\n\n> **A)** `Desconectar do servidor para fugir de abordagem.`",
+                "\n> **B)** `Tentar fugir ao ser abordado.`",
+                "\n> **C)** `É chamar alguém para lutar.`",
+                "\n> **D)** `Entrar em combate na ação.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "A"
+        },
+        {
+            "question": [
+                "08. Se você morrer o que você deverá fazer?",
+                "\n\n> **A)** `Pedir para um Staff me reviver.`",
+                "\n> **B)** `Aguardar a contagem terminar para voltar ao RP.`",
+                "\n> **C)** `Reiniciar o FiveM e reentrar no servidor.`",
+                "\n> **D)** `Nenhuma das anteriores.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "B"
+        },
+        {
+            "question": [
+                "09. Qual das alternativas explica o que é Vehicle Deathmatch?",
+                "\n\n> **A)** `VDM é subir uma montanha com carro de drift.`",
+                "\n> **B)** `É ato de abusar da mecânica do jogo.`",
+                "\n> **C)** `É matar alguém sem motivo.`",
+                "\n> **D)** `É usar um Veiculo para matar alguém.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "D"
+        },
+        {
+            "question": [
+                "10. Qual das alternativas explica o que é Metagaming ghosting?",
+                "\n\n> **A)** `Festa fantasia que envolve fantasmas.`",
+                "\n> **B)** `Ato de ficar fazendo veiculo fantasma.`",
+                "\n> **C)** `Fazer um RP de fantasma dentro da cidade.`",
+                "\n> **D)** `Seguindo uma pessoa sem estar seguindo o roleplay.`"
+            ],
+            "answer": null,
+            "answers": ["A", "B", "C", "D"],
+            "correctAnswer": "D"
+        }
+    ]
+}
